@@ -6,7 +6,7 @@ weight: 80
 
 В этом блоке можно рассказать о члене команды, который является автором материала или который будет вести вебинар. 
 
-{{< figure src="/images/block-host-author.png" >}}
+{{< figure src="https://i.ibb.co/gmHH88Z/block-host-author.png" >}}
 
 
 

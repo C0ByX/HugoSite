@@ -14,7 +14,7 @@ weight: 60
 
 Контакты под кнопкой в конце блока опциональны, их можно удалить.
 
-{{< figure src="/images/block-list-of-benefits.png" >}}
+{{< figure src="https://i.ibb.co/M9ZPyh8/block-list-of-benefits.png" >}}
 
 
 

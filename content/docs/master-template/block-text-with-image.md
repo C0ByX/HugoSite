@@ -6,7 +6,7 @@ weight: 40
 
 Предназначен для относительно длинных историй. При использовании такого блока нет ограничения на размер основного текста, естественно, в рамках разумного.
 
-{{< figure src="/images/block-text-with-image-and-button.png" >}}
+{{< figure src="https://i.ibb.co/pQ5qk72/block-text-with-image-and-button.png" >}}
 
 
 

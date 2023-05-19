@@ -12,15 +12,15 @@ weight: 20
 
 **Одиночный баннер без кнопки** используется для информационных рассылок, когда мы не ожидаем от читателя никакого действия. 
 
-{{< figure src="/images/block-banner-single-nobutton.png"  >}}
+{{< figure src="https://i.ibb.co/99kDbw3/block-banner-single-nobutton.png"  >}}
 
 **Одиночный баннер c кнопкой** используется, когда мысль и CTA должны быть понятны без пояснений. 
 
-{{< figure src="/images/block-banner-single-withbutton.png" >}}
+{{< figure src="https://i.ibb.co/Jkj9yk5/block-banner-single-withbutton.png" >}}
 
 **Двойной баннер c кнопкой** используется, когда требуется пояснение к заголовку, написанному в верхней части баннера. 
 
-{{< figure src="/images/block-banner-double-withbutton.png" >}}
+{{< figure src="https://i.ibb.co/CPP3zcN/block-banner-double-withbutton.png" >}}
 
 
 

@@ -11,7 +11,7 @@ weight: 30
 Длинного текста в таком блоке быть не должно, максимум &#x2014; 4 строчки на десктопе (не считая заголовка).
 
 
-{{< figure src="/images/block-text-no-image-with-button.png" >}}
+{{< figure src="https://i.ibb.co/kH8DNH1/block-text-no-image-with-button.png" >}}
 
 
 

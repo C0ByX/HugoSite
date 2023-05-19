@@ -14,7 +14,7 @@ weight: 50
 
 Объем текста должен быть не больше чем на 6 строчек, лучше уместиться в 4.
 
-{{< figure src="/images/block-news-digest.png" >}}
+{{< figure src="https://i.ibb.co/yVz8CCB/block-news-digest.png" >}}
 
 
 

@@ -10,8 +10,8 @@ weight: 10
 
 **Шапка:**
 
-{{< figure src="/images/block-logo.png" >}}
+{{< figure src="https://i.ibb.co/ydvWN7P/block-logo.png" >}}
 
 **Футер:**
 
-{{< figure src="/images/block-footer.png" >}}
+{{< figure src="https://i.ibb.co/WPjrn0D/block-footer.png" >}}

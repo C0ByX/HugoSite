@@ -6,7 +6,7 @@ weight: 70
 
 В этом блоке просьба сохранять иконку-иллюстрацию. Рабочий текст &#x2014;  не больше трех строчек. 
 
-{{< figure src="/images/block-appointment.png" >}}
+{{< figure src="https://i.ibb.co/n1wympC/block-appointment.pngs" >}}
 
 
 
