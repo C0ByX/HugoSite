@@ -1,0 +1,7 @@
+baseURL = 'https://c0byx.github.io/HugoSite/'
+defaultContentLanguage = 'ru'
+theme = "hugo-book" 
+
+[params]
+    BookTheme = 'light'
+    BookToC = false
