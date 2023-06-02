@@ -1,4 +1,4 @@
-baseURL = 'https://c0byx.github.io/HugoSite/'
+baseURL = 'http://ds.bonfire.online/'
 defaultContentLanguage = 'ru'
 theme = "hugo-book" 
 
