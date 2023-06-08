@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Бренд Bonfire on </title>
-    <link>http://ds.bonfire.online/docs/brand/</link>
+    <link>https://c0byx.github.io/HugoDesign/docs/brand/</link>
     <description>Recent content in Бренд Bonfire on </description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="http://ds.bonfire.online/docs/brand/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://c0byx.github.io/HugoDesign/docs/brand/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Бренд в email-рассылках</title>
-      <link>http://ds.bonfire.online/docs/brand/brand-in-email/</link>
+      <link>https://c0byx.github.io/HugoDesign/docs/brand/brand-in-email/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://ds.bonfire.online/docs/brand/brand-in-email/</guid>
+      <guid>https://c0byx.github.io/HugoDesign/docs/brand/brand-in-email/</guid>
       <description>Бренд в email-рассылках#Как email-рассылки поддерживают бренд#Демонстрируем качество нашей работы. Создаем у читателя ощущение и понимание того, какого уровня рассылок они могут ожидать, если их email-рассылками займемся мы. Рассказываем про нашу пользу. Рассказываем про кейсы, про технологии, методики, инновации. Транслируем наши ценности. Наши письма — красивые, понятные, &amp;ldquo;по делу&amp;rdquo;. Поддерживаем общий стиль коммуникаций. Письма сделаны в общем стиле, читатель их узнает и запоминает. Практические задачи email-рассылок#Рассылки помогают продавать.</description>
     </item>
     
     <item>
       <title>Корпоративный стиль</title>
-      <link>http://ds.bonfire.online/docs/brand/style/</link>
+      <link>https://c0byx.github.io/HugoDesign/docs/brand/style/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://ds.bonfire.online/docs/brand/style/</guid>
+      <guid>https://c0byx.github.io/HugoDesign/docs/brand/style/</guid>
       <description>Логотип#Цветовая гамма#HEX: #DB6020RGB: rgb(219, 96, 32)
 CMYK: 0%, 56%, 85%, 14%
 HEX: #2E2425RGB: rgb(46, 36, 37)
@@ -36,10 +36,10 @@ CMYK: 0%, 0%, 0%, 100%</description>
     
     <item>
       <title>Tone of Voice</title>
-      <link>http://ds.bonfire.online/docs/brand/tov/</link>
+      <link>https://c0byx.github.io/HugoDesign/docs/brand/tov/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://ds.bonfire.online/docs/brand/tov/</guid>
+      <guid>https://c0byx.github.io/HugoDesign/docs/brand/tov/</guid>
       <description>Tone of Voice#Раз#(Ждем Катю)</description>
     </item>
     
