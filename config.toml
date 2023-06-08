@@ -1,4 +1,4 @@
-baseURL = 'https://c0byx.github.io/HugoDesign/'
+baseURL = 'https://c0byx.github.io/HugoSite/'
 defaultContentLanguage = 'ru'
 theme = "hugo-book" 
 
