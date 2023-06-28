@@ -9,7 +9,4 @@ title: "Мастер-шаблон для маркетинговых рассыл
 
 В Bonfire пока нет транзакционных рассылок. При необходимости мы сделаем для них отдельный мастер-шаблон.
 
-Мастер-шаблон находится [в Stripo](https://my.stripo.email/cabinet/#/template-editor/?emailId=4474142&projectId=3722&type=EMAIL&templateProjectId=470969) — для доступа вам потребуются логин и пароль от сервиса.
-
-*!!Поменять ссылку, когда будет готов шаблон*
-
+Мастер-шаблон находится [в Stripo](https://my.stripo.email/cabinet/#/template-editor/?emailId=4474142&projectId=3722&type=EMAIL&templateProjectId=470969).
